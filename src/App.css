@@ -1,0 +1,8 @@
+.container {
+  width: 800px;
+  margin: 20px auto;
+}
+
+.container table thead th {
+  font-style: italic;
+}
